@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "二叉排序树与平衡二叉树", "二叉排序树与平衡二叉树.vcxproj", "{5DB7F540-3209-4363-8579-1A808A645AB9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5DB7F540-3209-4363-8579-1A808A645AB9}.Debug|x64.ActiveCfg = Debug|x64
+		{5DB7F540-3209-4363-8579-1A808A645AB9}.Debug|x64.Build.0 = Debug|x64
+		{5DB7F540-3209-4363-8579-1A808A645AB9}.Debug|x86.ActiveCfg = Debug|Win32
+		{5DB7F540-3209-4363-8579-1A808A645AB9}.Debug|x86.Build.0 = Debug|Win32
+		{5DB7F540-3209-4363-8579-1A808A645AB9}.Release|x64.ActiveCfg = Release|x64
+		{5DB7F540-3209-4363-8579-1A808A645AB9}.Release|x64.Build.0 = Release|x64
+		{5DB7F540-3209-4363-8579-1A808A645AB9}.Release|x86.ActiveCfg = Release|Win32
+		{5DB7F540-3209-4363-8579-1A808A645AB9}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CB1DA3BB-6925-443D-AF51-4854F847CDEC}
+	EndGlobalSection
+EndGlobal
